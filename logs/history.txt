@@ -1,0 +1,10 @@
+loop 5---THOUGHT: I need to check the response time of Google's website first
+ACTION: 
+{
+    "function_name": "get_response_time",
+    "function_params": {
+        "url": "google.com"
+    }
+}
+
+PAUSE
